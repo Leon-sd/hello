@@ -1,0 +1,3 @@
+first fix the sign up  and log in database, 
+next is to fix db homescreen....
+you can add anything you want
